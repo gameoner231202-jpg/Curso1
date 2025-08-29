@@ -1,19 +1,25 @@
 ![Diagrama de condicionales](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
-# 🦉 Tema 1: Suma de Dos Números en Java 🦉
+
+# 🦉 Tema 1: Suma de Dos Números en Java
+
+---
 
 ## 🧠 Objetivo
-Aprender a usar `Scanner` en Java para ingresar datos desde el teclado, y realizar operaciones aritméticas básicas.
+
+Aprender a usar `Scanner` en Java para ingresar datos desde el teclado y realizar operaciones aritméticas básicas.
 
 ---
 
 ## 📄 Instrucciones
 
-1. Abre el archivo `Suma.java`.
+1. Abre el archivo `Suma.java` o `Main.java` (según cómo esté nombrado).
 2. Lee el código que ya está escrito.
-4. Ejecuta el programa atraves de replit e ingresa distintos números.
-5. Luego, completa la tarea que está al final.
+3. Ejecuta el programa en Replit.
+4. Ingresa distintos números cuando el programa lo solicite.
+5. Completa la **tarea al final** de este documento.
 
-Nota: si no tienes cuenta puede ingresar en este link: https://replit.com/ 
+> 💡 **Nota:** Si no tienes una cuenta en Replit, puedes crearla gratuitamente en 👉 [https://replit.com](https://replit.com)
+
 ---
 
 ## 👨‍💻 Código actual
