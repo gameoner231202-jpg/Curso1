@@ -10,9 +10,10 @@ Aprender a usar `Scanner` en Java para ingresar datos desde el teclado, y realiz
 
 1. Abre el archivo `Suma.java`.
 2. Lee el código que ya está escrito.
-3. Ejecuta el programa e ingresa distintos números.
-4. Luego, completa la tarea que está al final.
+4. Ejecuta el programa atraves de replit e ingresa distintos números.
+5. Luego, completa la tarea que está al final.
 
+Nota: si no tienes cuenta puede ingresar en este link: https://replit.com/ 
 ---
 
 ## 👨‍💻 Código actual
