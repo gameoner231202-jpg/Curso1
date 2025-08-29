@@ -1,6 +1,6 @@
 ![Diagrama de condicionales](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Tema 1: Suma de Dos Números en Java
+# 🦉 Tema 1: Suma de Dos Números en Java 🦉
 
 ---
 
