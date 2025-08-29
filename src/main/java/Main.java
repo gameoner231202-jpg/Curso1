@@ -1,28 +1,19 @@
-import java.awt.*;
-import javax.swing.*;
-import javax.swing.border.Border;
+import java.util.Scanner;
 
 public class Main {
-    private static void createAndShowGUI() {
-        JFrame jFrame = new JFrame("Hello World Swing Example");
-        jFrame.setLayout(new FlowLayout());
-        jFrame.setSize(500, 360);
-        jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
 
-        JLabel label = new JLabel("Hello World Swing");
-        Border border = BorderFactory.createLineBorder(Color.BLACK);
-        label.setBorder(border);
-        label.setPreferredSize(new Dimension(150, 100));
+        System.out.print("Ingresa el primer número: ");
+        int numero1 = scanner.nextInt();
 
-        label.setText("Hello World Swing");
-        label.setHorizontalAlignment(JLabel.CENTER);
-        label.setVerticalAlignment(JLabel.CENTER);
+        System.out.print("Ingresa el segundo número: ");
+        int numero2 = scanner.nextInt();
 
-        jFrame.add(label);
-        jFrame.setVisible(true);
+        int suma = numero1 + numero2;
+
+        System.out.println("La suma es: " + suma);
+
+        scanner.close();
     }
-    
-  public static void main(String[] args) {
-    createAndShowGUI();
-  }
 }

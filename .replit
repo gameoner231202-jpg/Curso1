@@ -61,3 +61,6 @@ mainClass = "Main"
 [[ports]]
 localPort = 5900
 externalPort = 80
+
+[agent]
+expertMode = true
